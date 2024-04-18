@@ -1,14 +1,14 @@
 # cyk-in-java
 javac "C:\Users\user\Desktop\CYK-algorithm-master\CYK-algorithm-master\CYK.java"
 
-
-java -cp "C:\Users\user\Desktop\CYK-algorithm-master\CYK-algorithm-master" CYK "C:\Users\user\Desktop\CYK-algorithm-master\CYK-algorithm-master\grammar.txt" abbbabaa
-
-
+java -cp <javafilepath> <word>
+java -cp <javafilepath> abbbabaa
 
 
 
-java -cp "C:\Users\user\Desktop\CYK-algorithm-master\CYK-algorithm-master" CYK "C:\Users\user\Desktop\CYK-algorithm-master\CYK-algorithm-master\grammarr.txt" ab
+
+
+
 
 
 
